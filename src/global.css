@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import "tailwindcss";
+
+@theme {
+    --color-yellow-dark: #C47F17;
+    --color-yellow-normal: #DBAC2C;
+    --color-yellow-light: #f1e9c9;
+    --color-purple-dark: #4B2995;
+    --color-purple-normal: #8047f8;
+    --color-purple-light: #ebe5f9;
+
+    --color-base-title: #272221;
+    --color-base-subtitle: #403937;
+    --color-base-text: #574F4D;
+    --color-base-label: #8D8686;
+    --color-base-hover: #D7D5D5;
+    --color-base-button: ##E6E5E5;
+
+   
+}
+
