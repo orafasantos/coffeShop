@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Main from "./components/Main";
-import Product from "./components/Product";
+
 
 
 export default function App() {
@@ -10,7 +10,7 @@ export default function App() {
 
 
     <Header />
-
+     
     <Main /> 
     
       
@@ -18,5 +18,5 @@ export default function App() {
       <h1 className="">Hello World</h1>
       </>
   )
-}
+};
 

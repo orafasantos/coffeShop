@@ -5,7 +5,7 @@ export default function BuyButton() {
         <>
 
         <button className="bg-purple-dark flex items-center justify-center px-2 py-2 hover:bg-purple-normal w-9.5 h-9.5 rounded-md">
-            <ShoppingCartSimpleIcon className="text-white  "/>
+            <ShoppingCartSimpleIcon weight="fill" className="text-base-card h-5.5 w-5.5 "/>
         </button>
 
 

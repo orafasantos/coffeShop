@@ -1,5 +1,5 @@
 import Logo from "../assets/logo.svg";
-import Icon from "../assets/Icon.svg";
+
 import { ShoppingCartIcon } from '@phosphor-icons/react';
 
 export default function Header() {
@@ -11,7 +11,7 @@ export default function Header() {
             <img src={Logo}></img>
             
             <div className="flex items-center">
-              <img className="mr-1" src={Icon} alt="tracking icon"/> 
+               
               <p className="pr-2">Porto Alegre, RS</p>
             <span className="h-[38px] w-[38px] mx-auto my-auto justify-center flex items-center bg-(--color-yellow-light) rounded-md ml-3">
               <ShoppingCartIcon color="var(--color-yellow-dark)" weight="fill"/>
