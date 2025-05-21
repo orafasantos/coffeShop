@@ -13,9 +13,7 @@ export default function App() {
      
     <Main /> 
     
-      
     
-      <h1 className="">Hello World</h1>
       </>
   )
 };
